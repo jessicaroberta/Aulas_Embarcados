@@ -1,0 +1,21 @@
+1. O que são sistemas embarcados?
+		Um sistema embarcado é um computador de propósito único. Por ser dedicado tem um poder de processamento maior e devido a menor complexidade são mais baratos e acessíveis.
+
+2. O que são sistemas microprocessados?
+ 		São sistemas cujas funções são alteradas de acordo com o programa que controla o sistema e é a base de qualquer computador. São responsáveis por executar as instruções num sistema. Para tal ele é dividido em várias unidades que trabalham a altas frequências como, por exemplo, ULAs e registradores.
+
+3. Apresente aplicações de sistemas embarcados:
+	(a) Para a indústria automotiva;
+		Sistemas em tempo real como Freios ABS e Air Bag, sistemas de entretenimento,sistemas de GPS e navegação, controle de motor e injeção eletrônica, etc.
+	(b) Para eletrodomésticos;
+		Controle de temperatura, controle de acionamento através da internet, controle de tempo de funcionamento, sistema automático de acionamento,etc.
+	(c) Para automação industrial.
+		Ligar e desligar motores, monitoramento através de quadros medidores, integrar padrões de comunicação, controle de processos com atuadores, 
+
+4. Cite arquiteturas possíveis e as diferenças entre elas.
+		Microcontroladores: são circuitos integrados que podem ser programados para desempenhar funções específicas. Ele é composto por um microprocessador, memória, clock, barramentos de dados e endereços, entradas e saídas digitais.
+ 		Processadores de propósito geral: sistema computacional capaz de executar diversas tarefas de acordo com as instruções enviadas. Sao compostos por três unidades: de controle, memória e datapath.
+	 	FPGAs: é uma arquitetura que permite ao usuário reconfigurá-la dinamicamente para um fim específico. Sua principal característica é o processamento paralelo.
+		ASICs: São circuitos integrados projetados para uma aplicação bem definida e trabalha exclusivamente para ela.
+		MPSoCs:São sistemas com múltiplas unidades de processamento com finalidades específicas que compartilham um único endereço. Existe uma hierarquia no que diz respeito a componentes de memória e demais elementos, mas estão todos interconectados.São utilizados em sistemas integrados complexos e costumam ser mais rápidos que sistemas com único processador. Entretanto a programabilidade versus eficiencia é mais dificil que este tipo de sistema.
+
