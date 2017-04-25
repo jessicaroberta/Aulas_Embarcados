@@ -1,0 +1,27 @@
+Data: 20/04/2017
+
+1. Defina qual modelo de Raspberry Pi você utilizará no projeto desta disciplina com o Raspberry Pi. Justifique sua escolha.
+	Utilizaremos a Raspberry Pi 3. Nosso projeto requer o uso de internet e comunicação wireless e a Raspberry Pi 3 é a que mais apresenta recursos para isso.
+2. Defina qual sistema operacional você utilizará no projeto desta disciplina com o Raspberry Pi. Justifique sua escolha.
+	Utilizaremos o Raspbian porque ele é o sistema operacional nativo e por isso possui maior suporte. Ideal para iniciantes nesta plataforma de desenvolvimento.
+
+3. Defina de qual forma você instalará o sistema operacional escolhido. Escreva o passo-a-passo da instalação e forneça os links necessários para isto.
+	1- Colocar o cartão SD no computador e formate-o em FAT ou FAT32.
+        Para melhor resultado usar o SD Formatter:http://www.superdownloads.com.br/download/163/sd-formatter/
+	2- No site : www.raspberrypi.org fazer o download do Noobs – Offline and network install em ZIP
+	3- Depois de descompactar os arquivos enviar para o cartão SD formatado
+	4- Conectar a Raspberry ao monitor usando a saída DVI ou HDMI, ao mouse e teclado nas portas USB. 
+	5- Inserir o cartão microSD já com o Noobs copiado. Os arquivos de inicializaçao presentes no cartao de memória serão carregados.
+	6- O pacote do Noobs vem com diversos sistemas operacionais, para este projeto selecionaremos o Raspbian
+	7- Seguir as instruçoes de instalação
+
+
+4. Defina de qual forma você desenvolverá software para o Raspberry Pi no projeto desta disciplina. Escreva o passo-a-passo do desenvolvimento e forneça os links necessários para isto.
+	1- Fazer os programas no desktop;
+	2- Copilar na máquina usando a instrução especifica para compilar no ARM
+	3- Enviar o programa, via ssh, para a raspberry
+	
+
+
+
+
